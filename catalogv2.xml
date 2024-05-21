@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModelList>
+  <Model name="ThinkStation P330">
+    <Types>
+      <Type>30C8</Type>
+      <Type>30C5</Type>
+      <Type>30C9</Type>
+      <Type>30CA</Type>
+      <Type>30C6</Type>
+      <Type>30C7</Type>
+    </Types>
+    <BIOS version="M1VKT77A" image="m1vk" crc="912a9dd5ea4464ffd20be49726b249fc030787f26ada18fb25710ac9ee28257b">https://download.lenovo.com/pccbbs/thinkcentre_bios/m1vjy77usa.exe</BIOS>
+    <SCCM os="win10" version="1803" crc="618acbf4829e9be1a6e95e17b4ca5135c213aeccb759bb837ae70e04c6548e01">https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_w1064_1803_20180613.exe</SCCM>
+    <SCCM os="win10" version="1809" crc="df5cad3689436fae2b6b935a136f847820fea098ecde8984b2622a8c3fa99601">https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_w1064_1809_20190124.exe</SCCM>
+  </Model>
+  <Model name="ThinkStation P330 2nd Gen">
+    <Types>
+      <Type>30CY</Type>
+      <Type>30D0</Type>
+      <Type>30D2</Type>
+      <Type>30D4</Type>
+      <Type>30D3</Type>
+      <Type>30D1</Type>
+    </Types>
+    <BIOS version="M1VKT77A" image="m1vk" crc="912a9dd5ea4464ffd20be49726b249fc030787f26ada18fb25710ac9ee28257b">https://download.lenovo.com/pccbbs/thinkcentre_bios/m1vjy77usa.exe</BIOS>
+    <SCCM os="win10" version="1809" crc="6b326662135292d6c785f58b21fbfebf92901cada051b9b65324cb582047acf7">https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_2nd_gen_win10_1809_201906.exe</SCCM>
+    <SCCM os="win10" version="1903" crc="4e80d82b85d38f177bcd08defc83bca2f1731bfc0d747df3e7f1e559a5983604">https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_2nd_gen_win10_1903_201908.exe</SCCM>
+    <SCCM os="win10" version="1909" crc="5a0f4e28135be4ff25f9a3ebdf29185872f65118abb5e98592c3ba5d7782fb3a">https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_2nd_gen_win10_1909_202001.exe</SCCM>
+    <SCCM os="win10" version="2004" crc="30f26aea21ae022eaff63e1d619ae912302d20bae5c86bcdbbe9161fbf0cd9d4">https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_2nd_gen_w1064_2004_202008.exe</SCCM>
+  </Model>
+  <Model name="ThinkStation P330 TINY">
+    <Types>
+      <Type>30CF</Type>
+      <Type>30CG</Type>
+      <Type>30CE</Type>
+      <Type>30D6</Type>
+      <Type>30D5</Type>
+      <Type>30D7</Type>
+    </Types>
+    <BIOS version="M1UKT77A_1.0.0.119" image="m1uk" crc="88b21fc34359801e7bc3a3c4ea87fcec3ba5b09a57a2a9f5edcb9f881f72c2a1">https://download.lenovo.com/pccbbs/thinkcentre_bios/m1ujy77usa.exe</BIOS>
+    <SCCM os="win10" version="1709" crc="fb42bff768494b51eca785dc71676d7b4b029d71e30e3a9453c39346e9bb18ef">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330tiny_w1064_1709_201908.exe</SCCM>
+    <SCCM os="win10" version="1803" crc="60a558e2a5c38e4984d829d59f1aa165377ed5bc00ac08d0909532b869855793">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-p330tiny_w1064_1803_201902.exe</SCCM>
+    <SCCM os="win10" version="1809" crc="fe97066d53ad78a7f8bb50208b7fc85fb60002aa5b4da5b19868730711daf883">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330_tiny_w1064_1809_201904.exe</SCCM>
+    <SCCM os="win10" version="1903" crc="2e176e98a5d5948eadbe4ff9795e74246952d0320f9c83d324dcebc32a5cdd58">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330tiny_w1064_1903_201908.exe</SCCM>
+    <SCCM os="win10" version="1909" crc="a5c53dc293b9355d22d367673d63bcfe3074abddf72100bd6a82a3ab621d5681">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920tsqx-m720tsq-v530-P330_tiny_w1064_1909_201912.exe</SCCM>
+    <SCCM os="win10" version="2004" crc="904376bd939c40e47aa698c59347416ae1815fda78f20a69b9290e7ab0b0de67">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720tsq-m920tsxq-p330tiny_w1064_2004_202007.exe</SCCM>
+    <SCCM os="win10" version="20H2" crc="f28020a11ee668bc29d38fa6ce8655c21a9a40c459d00b2d07792f021feeef98">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720tsq-m920tsxq-p330tiny_w1064_20h2_202101.exe</SCCM>
+    <SCCM os="win11" version="21H2" crc="bfacc1a53c4dcb54e09ac7ac4fd9adc18c9c618774313c2d1d168f76ecd8a1ed">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920tsqx-m720tsq-p330tiny_w11_21_202306.exe</SCCM>
+    <HSA os="win10" version="2004" crc="e7e7042671dd7b9bf1b1b741969ced2638fdd7726f8ee6c58de7a3434d934167">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720tsq_m920tsxq_p330_tiny_hsa_2004_202007.exe</HSA>
+    <HSA os="win10" version="20H2" crc="78fcc8a2fc10ac2dfa5cba97bbcedec9fe7f7ab83ed9f0f093288976054262f8">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720tsq-m920tsxq-p330tiny_hsa_20h2_202101.exe</HSA>
+    <HSA os="win11" version="21H2" crc="995c198a6ff26200a205e7325b01125187312ba1f3531af615ad2cc79a33344a">https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920tsqx-m720tsq-p330tiny_hsa_w11_21_202204.exe</HSA>
+  </Model>
+</ModelList>
